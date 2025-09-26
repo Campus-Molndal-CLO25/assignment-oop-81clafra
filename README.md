@@ -113,7 +113,7 @@ assignment-oop-81clafra/
 
 ## Länkar
 
-- **GitHub Repository:** https://github.com/orgs/Campus-Molndal-CLO25/repositories/assignment-oop-81clafra
+- **GitHub Repository:** https://github.com/Campus-Molndal-CLO25/assignment-oop-81clafra
 
 ---
 
