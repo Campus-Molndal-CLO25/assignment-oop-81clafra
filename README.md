@@ -22,7 +22,7 @@ _Exempel på utskrift vid en enstaka körning av programmet_
 ### Klona projektet
 
 ```bash
-git clone https://github.com/orgs/Campus-Molndal-CLO25/repositories/assignment-oop-81clafra
+git clone https://github.com/Campus-Molndal-CLO25/assignment-oop-81clafra.git
 cd assignment-oop-81clafra
 ```
 
